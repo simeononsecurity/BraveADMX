@@ -1,12 +1,13 @@
 # BraveADMX
-Proper ADMX Templates for the Brave Browser
+### Proper ADMX Templates for the Brave Browser
 
-**These Policy Definitions are in a Pre-Alpha state. They should be used for testing purposes only**
+As of the Brave Browser v1.3 (Feb 2020) release, Brave now has its own dedicated registry space seperate from Chrome and Chromium.
+
+**These Policy Definitions are in a Pre-Alpha state. Not all policies are functional, but should work most of the time.**
 
 **Download the required files from the [GitHub Repository](https://github.com/simeononsecurity/BraveADMX)**
 
-Modified Google Chrome Policy Definitions according to:
-[Brave Group Policy](https://support.brave.com/hc/en-us/articles/360039248271-Group-Policy)
+Modified Google Chrome Policy Definitions according to: [Brave Group Policy](https://support.brave.com/hc/en-us/articles/360039248271-Group-Policy)
 
 **Note:**
 Replaced "HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome" with "HKEY_LOCAL_MACHINE\Software\Policies\BraveSoftware\Brave"
